@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_6" height="167" width="229" y="312.5" x="54.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+  <rect stroke="#000000" id="svg_1" height="477.99999" width="317.999983" y="0.5" x="321.5" stroke-width="0" fill="#0000ff"/>
+  <rect id="svg_2" height="0" width="0" y="390.5" x="210.5" stroke-width="0" stroke="#000000" fill="#FF0000"/>
+  <rect id="svg_3" height="0" width="0" y="430.5" x="423.5" stroke-width="0" stroke="#000000" fill="#FF0000"/>
+  <text font-weight="bold" stroke="#000000" transform="matrix(9.80332 0 0 5.71875 -1053.07 -327.953)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_4" y="86.505464" x="140.874581" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">MAS</text>
+  <text stroke="#000000" transform="matrix(1.39567 0 0 2.13231 -46.2246 -323.24)" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="329.363635" x="153.496759" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">SyD WEB</text>
+ </g>
+</svg>
